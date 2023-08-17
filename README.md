@@ -1,4 +1,4 @@
-## Vehicle-CO2-Emission-Analysis
+## Analyzing Factors Impacting Vehicle CO2 Emissions: A Comprehensive Study
 
 In this project, I gathered a dataset containing information about vehicles' CO2 emissions from a CSV file. I then performed data cleaning by removing unnecessary columns and addressing duplicate and empty rows. During the data analysis phase, I conducted statistical examinations, grouping the data by factors such as the make, model, vehicle class, fuel type, engine size, and transmission of the vehicles.
 
